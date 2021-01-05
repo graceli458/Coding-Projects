@@ -1,6 +1,5 @@
 README.txt
 Name: Grace Li
-UNI: gl2676
 Assignment: Credit Card class
 
 ===============================================================================
