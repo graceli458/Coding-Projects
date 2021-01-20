@@ -1,12 +1,6 @@
 README.txt
 Name: Grace Li
-UNI: gl2676
-Assignment: WordTest / Scrabble
-
-To preface: I hope I showed that I know how to handle exceptions. I know that I
-could have implemented my code in a different way that could have more 
-explicitly thrown exceptions, so I'll talk about the alternative methods that I
-could have used to illustrate that I understand how to handle exceptions. 
+Project: WordTest / Scrabble
 
 I added places where I could have thrown an exception instead of 
 continually prompting the user for input--seen on line 272,303,335--where I put 
